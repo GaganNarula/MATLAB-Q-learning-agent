@@ -1,6 +1,9 @@
 # MATLAB-Q-learning-agent
 MATLAB code for Obs learning code 
+
+
 author: Gagan Narula Phd Behavioral Neuroscience 
+
 Project: Models of Observational learning 
 Year: 2015-16
 
